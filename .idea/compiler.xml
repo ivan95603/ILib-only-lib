@@ -9,8 +9,8 @@
         <module name="ILib-only-lib" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="ILib-only-lib" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="ILib-only-lib" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
